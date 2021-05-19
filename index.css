@@ -3,11 +3,11 @@ body{
 }
 
 h1 {
-    color: green;
+    color: red;
     font-weight: 900;
 }
 
 p {
-    color: brown;
+    color: black;
     font-weight: 700;
 }
